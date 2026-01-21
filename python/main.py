@@ -5,3 +5,4 @@ def calculate_triangle_area(base,height):
 if __name__ == "__main__":
     print("Area : ",calculate_triangle_area(12,6))
 
+print ("Hello World")
